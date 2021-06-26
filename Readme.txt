@@ -10,4 +10,4 @@ Requird Modules for running this project :
 1. shutil
 2. psutil
 3. tkinter
-4. win32com
+4. pywin32
